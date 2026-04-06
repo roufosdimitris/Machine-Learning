@@ -1,6 +1,7 @@
 This repository contains two projects that were worked on the subject of Machine Learning.
 
-a. First Project:
+First Project:
+
 The objective of this project is to develop a decision system that classifies facial images into two categories (binary classification).
 We explored and compared multiple classification methodologies, analyzing the impact of different approaches to handling image-based information.
 
